@@ -4,6 +4,8 @@ This is an implementation of a servo control library. It may require some tweaki
 _____
 
 ## Important notes:
+* This library is in beta bending some user feedback.
+
 * Power should be supplied from a different source than the micro:bit directly as most servos work best with at least 4.5V.
 
 * The servo should be connected to the micro:bit's ground as well
