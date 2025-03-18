@@ -39,7 +39,7 @@ for example to have a servo attached to pin 2 move from 0 to 180 degrees with 1 
     from servo import servo
     # ... any other needed libraries ...
 
-    position_servo = servo(pin2, 'postion')
+    position_servo = servo(pin2, 'position')
 
     while True:
         position_servo.set_angle(0)
